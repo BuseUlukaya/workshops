@@ -9,8 +9,9 @@ Start
 5. Print "Dear teacher,"
 6. Print the student's promise to work hard and do all assignments
 7. Print "Sincerely,"
-8. Print the student's First Name, Last Name and Student ID
-9. Stop
+8. Input student's First Name, Last Name and Student ID
+9. Print the student's First Name, Last Name and Student ID
+10. Stop
 
 Part 2
 Pseudo Code:
