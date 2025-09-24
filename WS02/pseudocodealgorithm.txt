@@ -1,0 +1,17 @@
+Pseudo Code
+
+Part 1
+1.Start the program.
+2.Input the prices for small, medium, and large shirts.
+3.Calculate subtotal, tax, and total for  customer.
+4.Print the results in a table.
+5.End the program.
+
+Part 2
+1.Start the program.
+2.Input the prices for small, medium, and large shirts.
+3.Calculate subtotal, tax, and total for each customer.
+4.Print the results in a table.
+5.Break down totals (excluding and including tax) into coins and show balances.
+6.Compute and print the average cost per shirt with 4 decimals.
+7.End the program.
